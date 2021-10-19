@@ -1,0 +1,14 @@
+﻿double a, b, c, d, e, f;
+a = double.Parse(Console.ReadLine());
+b = double.Parse(Console.ReadLine());
+c = double.Parse(Console.ReadLine());
+d = 180 - (b + c);
+e = a * Math.Sin(c) / Math.Sin(b);
+f = a * Math.Sin(d) / Math.Sin(b);
+Console.WriteLine($"Данная сторона: {a}");
+Console.WriteLine($"Данные углы:{b},{c}");
+Console.WriteLine($"Найденный угол:{d}");
+Console.WriteLine(d);
+Console.WriteLine(e);
+Console.WriteLine(f);
+Console.ReadKey();
