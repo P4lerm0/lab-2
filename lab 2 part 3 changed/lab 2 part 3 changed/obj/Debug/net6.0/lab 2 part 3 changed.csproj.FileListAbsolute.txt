@@ -1,0 +1,16 @@
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\bin\Debug\net6.0\lab 2 part 3 changed.exe
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\bin\Debug\net6.0\lab 2 part 3 changed.deps.json
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\bin\Debug\net6.0\lab 2 part 3 changed.runtimeconfig.json
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\bin\Debug\net6.0\lab 2 part 3 changed.dll
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\bin\Debug\net6.0\ref\lab 2 part 3 changed.dll
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\bin\Debug\net6.0\lab 2 part 3 changed.pdb
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\obj\Debug\net6.0\lab 2 part 3 changed.GlobalUsings.g.cs
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\obj\Debug\net6.0\lab 2 part 3 changed.csproj.AssemblyReference.cache
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\obj\Debug\net6.0\lab 2 part 3 changed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\obj\Debug\net6.0\lab 2 part 3 changed.AssemblyInfoInputs.cache
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\obj\Debug\net6.0\lab 2 part 3 changed.AssemblyInfo.cs
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\obj\Debug\net6.0\lab 2 part 3 changed.csproj.CoreCompileInputs.cache
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\obj\Debug\net6.0\lab 2 part 3 changed.dll
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\obj\Debug\net6.0\ref\lab 2 part 3 changed.dll
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\obj\Debug\net6.0\lab 2 part 3 changed.pdb
+C:\Users\Dimap\source\repos\lab 2 part 3 changed\lab 2 part 3 changed\obj\Debug\net6.0\lab 2 part 3 changed.genruntimeconfig.cache
